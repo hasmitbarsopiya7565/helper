@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--<color name="blue">#065497</color>-->
+    <color name="theme">#006597</color>
+    <color name="themeOpacity">#0D006597</color>
+    <color name="themeOpacity1">#55006597</color>
+    <color name="themeOpacity2">#40006597</color>
+    <color name="themeOpacity0">#10006597</color>
+    <color name="borderColor">#26006597</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="google_green">#3cba54</color>
+    <color name="google_yellow">#f4c20d</color>
+    <color name="google_red">#db3236</color>
+    <color name="google_blue">#4885ed</color>
+    <color name="teal">#008080</color>
+    <color name="blue_dianne">#235659</color>
+    <color name="dove_gray">#6b6b6b</color>
+    <color name="doveGrayOpacity">#666b6b6b</color>
+    <color name="doveGrayOpacity2">#806b6b6b</color>
+    <color name="orange">#FF6A29</color>
+    <color name="orangee">#cc6626</color>
+    <color name="orangeOpacity">#10FF6A29</color>
+    <color name="gray">#C0C0C0</color>
+    <color name="gray2">#7C7C7C</color>
+    <color name="light_black">#030303</color>
+    <color name="bg">#F8F8F8</color>
+    <color name="background">#EFF3FF</color>
+    <color name="blue_gradient_color3">#78D2FF</color>
+    <color name="orange_gradient_color1">#FDA078</color>
+    <color name="teal_gradient_color1">#FF03DAC5</color>
+    <color name="purpl">#DEC7FB</color>
+   <!-- <color name="announcemnetGradientColor1">#302c666d</color>
+    <color name="announcemnetGradientColor2">#502c666d</color>
+    <color name="announcemnetGradientColor3">#902c666d</color>-->
+
+    <color name="gradient_color1">#302c666d</color>
+    <color name="gradient_color2">#502c666d</color>
+    <color name="gradient_color3">#902c666d</color>
+
+    <color name="announcemnetGradientColor1">#30006597</color>
+    <color name="announcemnetGradientColor2">#50006597</color>
+    <color name="announcemnetGradientColor3">#90006597</color>
+
+
+    <color name="googleGreenOpacity2">#643cba54</color>
+    <color name="googleGreenOpacity3">#243cba54</color>
+    <color name="googleGreenOpacity">#103cba54</color>
+    <color name="googleGreenOpacity4">#953cba54</color>
+
+    <color name="googleYellowOpacity2">#64f4c20d</color>
+    <color name="googleYellowOpacity3">#24f4c20d</color>
+    <color name="googleYellowOpacity">#10f4c20d</color>
+
+    <color name="notificatioOpacity">#10f4c20d</color>
+    <color name="notificationShadow">#26f4c20d</color>
+
+    <color name="googleRedOpacity4">#95db3236</color>
+    <color name="googleRedOpacity2">#64db3236</color>
+    <color name="googleRedOpacity3">#24db3236</color>
+    <color name="googleRedOpacity">#10db3236</color>
+
+    <color name="googleBlueOpacity2">#644885ed</color>
+    <color name="googleBlueOpacity3">#244885ed</color>
+    <color name="googleBlueOpacity">#104885ed</color>
+
+
+</resources>

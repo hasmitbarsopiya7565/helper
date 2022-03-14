@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/custom_toast_layout"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:background="@drawable/button"
+    android:padding="5dp"
+    android:layout_gravity="center_horizontal">
+
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/custom_toast_image"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:src="@drawable/ic_checked"
+        android:layout_marginTop="10dp"
+        app:tint="@color/white"/>
+
+    <TextView
+        android:layout_gravity="center"
+        android:id="@+id/custom_toast_message"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:text="Homework Addded Successfully"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"/>
+
+    <!-- <TextView
+        android:layout_marginRight="20dp"
+         android:layout_marginLeft="20dp"
+         android:layout_marginBottom="10dp"
+         android:id="@+id/custom_toast_message2"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:contentDescription="To"
+         android:textColor="@color/white"
+         android:textSize="@dimen/fontSize"
+         android:textStyle="bold"
+         android:gravity="center"
+         android:text="Added Successfully" />-->
+</LinearLayout>
