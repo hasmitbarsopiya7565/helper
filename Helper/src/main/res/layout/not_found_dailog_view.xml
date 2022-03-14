@@ -14,7 +14,7 @@
         android:layout_marginRight="10dp"
         android:layout_marginLeft="10dp"
         android:layout_marginBottom="15dp"
-        android:src="@drawable/homework"
+        android:src="@drawable/ic_sad_cloud"
         android:layout_centerHorizontal="true"/>
 
 
@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:textSize="@dimen/headingSize"
+        android:textSize="16dp"
         android:textColor="@color/theme"
         android:textStyle="bold"
         android:gravity="center"
@@ -49,15 +49,18 @@
             android:id="@+id/okBtn"
             android:layout_below="@+id/notFoundSecondMessageTv"
             android:layout_width="wrap_content"
-            android:layout_height="@dimen/btnHeight"
+            android:layout_height="40dp"
             android:layout_margin="10dp"
             android:textAllCaps="true"
-            android:textSize="@dimen/fontSize"
+            android:textSize="14dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="20dp"
+            android:gravity="center"
             android:textStyle="bold"
             android:textColor="@color/white"
             android:background="@drawable/button"
             android:layout_centerHorizontal="true"
-            android:text="@string/ok"
+            android:text="ok"
             android:layout_marginBottom="20dp"
             android:layout_marginTop="20dp"/>
 
